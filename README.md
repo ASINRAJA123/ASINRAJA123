@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm AsinRaja</h1>
 <h3 align="center">Exploring the world of code, one project at a time. Building skills, solving problems, and creating impactful solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asinraja123&label=Profile%20views&color=0e75b6&style=flat" alt="asinraja123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asinraja123&label=Profile%20views&color=0e75b6&style=flat" alt="asinraja123" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
